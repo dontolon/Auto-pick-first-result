@@ -15,17 +15,17 @@ A Chrome extension that automatically selects and opens the first search result 
 
 ### Step 1: Clone the Repository
 
-Clone or download this repository to your local machine 
+- Clone or download this repository to your local machine 
 
 ### Step 2: Open Chrome Extensions Page
-Open Google Chrome.
-Go to chrome://extensions/.
+- Open Google Chrome.
+- Go to chrome://extensions/.
 
 ### Step 3: Enable Developer Mode
-Enable Developer mode by clicking the toggle switch in the top right corner of the Extensions page.
+- Enable Developer mode by clicking the toggle switch in the top right corner of the Extensions page.
 
 ### Step 4: Load Unpacked Extension
-Click the Load unpacked button.
-Select the directory where you cloned this repository.
+- Click the Load unpacked button.
+- Select the directory where you cloned this repository.
 
 ### Step 5: Play your favourite daily word game without using the mouse 
