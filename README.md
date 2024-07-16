@@ -1,4 +1,4 @@
-# Auto pick the first result when using chrome and google
+# Auto pick the first result when using chrome and google and save plenty of time
 I wanted to play wordle completely hands free
 
 I asked ChatGPT to make it safe but I am not sure so use at your own risk. 
