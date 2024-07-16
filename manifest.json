@@ -1,0 +1,27 @@
+{
+    "manifest_version": 3,
+    "name": "Auto Pick First Search Result",
+    "version": "1.0",
+    "description": "Finally you can play wordle with no mouse usage",
+    "permissions": [
+      "activeTab",
+      "scripting"
+    ],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "commands": {
+      "pick-first-result": {
+        "fake_comment": "Pick your preferred key combination here",
+        "suggested_key": {
+          "default": "Ctrl+Shift+P",
+          "mac": "Command+Shift+P"
+        },
+        "description": "Pick the first search result"
+      }
+    },
+    "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self'"
+  }
+  }
+  
