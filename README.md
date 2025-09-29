@@ -9,7 +9,7 @@ A Chrome extension that automatically selects and opens the first search result 
 
 - Automatically picks the first search result when a keyboard shortcut is pressed.
 - Supports Google search engine.
-- Shortcut: `Ctrl+Shift+P` on Windows/Linux and `Command+Shift+P` on macOS.
+- Shortcut: `Ctrl+Shift+F` on Windows/Linux and `Command+Shift+F` on macOS.
 
 ## Installation
 
